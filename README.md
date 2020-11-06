@@ -57,7 +57,7 @@
    - NIC connected to the OCP network
    - Load the rhcos-X.X.X-x86_64-installer.x86_64.iso image into the CD/DVD drive
 1. Create a Bootstrap virtual machine (this vm will be deleted once installation completes) with minimum settings:
-   - Name: ocp-boostrap
+   - Name: ocp-bootstrap
    - 4vcpu
    - 8GB RAM
    - 50GB HDD
